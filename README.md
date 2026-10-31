@@ -1,5 +1,5 @@
 # CustomGameModesFramework
 
-Custom game modes with native game settings UI and NullServers multiplayer integration.
+Custom game modes with native game settings UI for NullServers.
 
-Requires Slendytubbies 3 Multiplayer (IL2CPP), MelonLoader and a compatible NullServers build. Build with the .NET 10 SDK targeting .NET 6; set the GamePath MSBuild property to your game folder. Install the resulting DLL in the game's Mods folder.
+Only source, the .dll mod on our [Discord](https://discord.com/invite/B4KR8Ae4te) server.
